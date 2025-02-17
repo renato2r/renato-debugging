@@ -69,7 +69,7 @@ function hideAllMessages() {
   }
 }
 
-/****** function executed when game starts **********************************************/
+/****** function executed when game starts *********************************************/
 function setup() {
   // Get random number
   targetNumber = getRandomNumber(1, 100);
